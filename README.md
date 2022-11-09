@@ -9,3 +9,7 @@ function to a variable) and write a condition to continuously detect alarm in ca
 Assignment 3- Write python code for blinking LED and Traffic lights for Raspberry pi.Only python code 
 is enough, no need to execute in raspberry pi.Note: youare allowed to use web search and complete the
 assignment. 
+
+Assignment 4- Write code and connections in wokwi for the ultrasonic sensor. Whenever the distance is 
+less than 100 cms send an "alert" to the IBM cloud and display in the device recent events.Upload 
+document with wokwi share link and images of IBM cloud.
