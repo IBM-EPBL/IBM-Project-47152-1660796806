@@ -1,4 +1,5 @@
 # IBM-Project-47152-1660796806
+# Project_Title - Smart Agriculture
 SmartFarmer - IoT Enabled Smart Farming Application
 
 Assignment 1- Make a Smart_Home in Tinkercard,using 2+ sensors,Led,Buzzer in single code and circuit. 
@@ -13,3 +14,8 @@ assignment.
 Assignment 4- Write code and connections in wokwi for the ultrasonic sensor. Whenever the distance is 
 less than 100 cms send an "alert" to the IBM cloud and display in the device recent events.Upload 
 document with wokwi share link and images of IBM cloud.
+
+-----------------------------------------------------------------------------------------------------------------------------
+Where all the Required Documents are placed in the Described-tree Structure by the IBM--Team.
+
+[Project_Deliverables_Structure_Final.pdf](https://github.com/IBM-EPBL/IBM-Project-47152-1660796806/files/10011584/Project_Deliverables_Structure_Final.pdf)
