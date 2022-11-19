@@ -5,7 +5,9 @@ SmartFarmer - IoT Enabled Smart Farming Application
 Team_Leader SOORIYA A
 
 Team_Member-1 SRI KARTHIK RAAJA S 
+
 Team_Member-2 SRIVIGNESH K 
+
 Team_Member-3 SUMAN R
 
 Assignment 1- Make a Smart_Home in Tinkercard,using 2+ sensors,Led,Buzzer in single code and circuit.
