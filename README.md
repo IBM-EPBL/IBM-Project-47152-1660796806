@@ -2,6 +2,10 @@
 # Project_Title - Smart Agriculture
 SmartFarmer - IoT Enabled Smart Farming Application
 
+Team Leader SOORIYA A
+
+Team Members: 1.SRI KARTHIK RAAJA S 2.SRIVIGNESH K 3.SUMAN R
+
 -----------------------------------------------------------------------------------------------------------------------------
 Where all the Required Documents are placed in the Described-tree Structure by the IBM--Team.
 
